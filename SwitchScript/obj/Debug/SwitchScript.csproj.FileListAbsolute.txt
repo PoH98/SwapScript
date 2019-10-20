@@ -1,0 +1,14 @@
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.exe.config
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.exe
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.pdb
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.csprojAssemblyReference.cache
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.csproj.CoreCompileInputs.cache
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.exe
+C:\Users\PoH98\source\repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.pdb
+D:\Repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.exe.config
+D:\Repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.exe
+D:\Repos\SwitchScript\SwitchScript\bin\Debug\SwitchScript.pdb
+D:\Repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.csprojAssemblyReference.cache
+D:\Repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.csproj.CoreCompileInputs.cache
+D:\Repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.exe
+D:\Repos\SwitchScript\SwitchScript\obj\Debug\SwitchScript.pdb

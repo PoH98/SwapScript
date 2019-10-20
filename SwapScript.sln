@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapScript", "SwitchScript\SwapScript.csproj", "{DCEEBA33-3B7D-472E-BBDB-F52FA702735C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEEBA33-3B7D-472E-BBDB-F52FA702735C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEEBA33-3B7D-472E-BBDB-F52FA702735C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEEBA33-3B7D-472E-BBDB-F52FA702735C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEEBA33-3B7D-472E-BBDB-F52FA702735C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A636F7-1594-4A4E-A7F5-4D40D2B1B95B}
+	EndGlobalSection
+EndGlobal
