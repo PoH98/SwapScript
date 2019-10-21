@@ -1,0 +1,7 @@
+D:\Repos\SwapScript\SwitchScript\bin\Debug\SwitchScript.exe.config
+D:\Repos\SwapScript\SwitchScript\bin\Debug\SwitchScript.exe
+D:\Repos\SwapScript\SwitchScript\bin\Debug\SwitchScript.pdb
+D:\Repos\SwapScript\SwitchScript\obj\Debug\SwapScript.csprojAssemblyReference.cache
+D:\Repos\SwapScript\SwitchScript\obj\Debug\SwapScript.csproj.CoreCompileInputs.cache
+D:\Repos\SwapScript\SwitchScript\obj\Debug\SwitchScript.exe
+D:\Repos\SwapScript\SwitchScript\obj\Debug\SwitchScript.pdb
